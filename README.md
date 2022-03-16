@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm Mark, I study computer graphics and game development.  
 I can program in C++/BP under the Unreal Engine 4/5:  
@@ -53,11 +52,11 @@ how to profile and build a game.
 * [Unreal C++ Multiplayer Master: Intermediate Game Development](https://www.udemy.com/certificate/UC-af6c1691-b143-4a2c-a23e-77106198e55b/)
 
 ## Codewarrior Profile Badges
-<img src="https://www.codewars.com/users/markveligod/badges/large">
 
 ## Github stats
-![trophy](https://github-profile-trophy.vercel.app/?username=markveligod&theme=onedark)  
-![](https://komarev.com/ghpvc/?username=markveligod&color=grey)
+![trophy](https://github-profile-trophy.vercel.app/?username=luchikAR&theme=onedark)  
+![](https://komarev.com/ghpvc/?username=luchikAR&color=grey)
+
 <!--
 **luchikAR/luchikAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
