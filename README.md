@@ -1,10 +1,8 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Andrey, I study computer security, programming languages and ESB.
-I can program in ESQL/Java under the ESB:
-
+I'm Andrey, I study computer security, programming languages and ESB.    
+I can program in ESQL/Java under the ESB:    
 * IBM Integration Toolkit
-* IBM mq manager
-
+* IBM mq manager     
 I know the base architecture of the ESB, the main methods of refactoring and how to build the progect.
 
 I can program in C, C++, Java at the junior level:
