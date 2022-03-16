@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Mark, I study computer graphics and game development.
+I'm Andrey, I study computer security, programming languages and ESB.
 I can program in ESQL/Java under the ESB:
 
 * IBM Integration Toolkit
