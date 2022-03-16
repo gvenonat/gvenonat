@@ -6,7 +6,7 @@ I can program in C++/BP under the Unreal Engine 4/5:
 * Writing readable, maintainable, yet fast and efficient code;  
 * Mathematical magic for solving many common coding problems;   
 * Using [Jenkins](https://www.jenkins.io) to automate processes;  
--- * Creating automation tests;  
+<!-- * Creating automation tests;  -->
 * Audio programming to create and use sound cues, classes and mixers.  
 
 I know the base architecture of the Unreal Engine, the main methods of refactoring,
