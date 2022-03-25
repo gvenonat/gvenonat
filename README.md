@@ -34,18 +34,16 @@ I can program in C, C++, Java at the junior level:
 | GNL | 07/05/2020 - 15/05/2020 | A small program for reading information from a file. Link to [GitHub Repo](https://github.com/luchikAR/GNL). |
 | libft | 29/04/2020 - 14/05/2020 | Native implementation of the library of standard functions in the C language. Link to [GitHub Repo](https://github.com/luchikAR/libft). |
 
-
-## Certificates
 <!--
+## Certificates
 * [Unreal Engine C++ Developer: Learn C++ and Make Video Games](https://www.udemy.com/certificate/UC-20cb3b99-391c-4aaf-be7a-3da38396187a/)  
 * [Unreal Engine — полное руководство по разработке на С++](https://www.udemy.com/certificate/UC-8069876f-be89-4c90-bd60-2f252de0d248/)  
 * [Unreal Engine Blueprint Game Developer](https://www.udemy.com/certificate/UC-c52ab5f1-e36a-4325-96ef-77bbe6386be1/)  
 * [Unreal C++ Multiplayer Master: Intermediate Game Development](https://www.udemy.com/certificate/UC-af6c1691-b143-4a2c-a23e-77106198e55b/)
--->
 
 ## Codewarrior Profile Badges
-<!-- <img src="https://www.codewars.com/users/markveligod/badges/large"> -->
-
+<img src="https://www.codewars.com/users/markveligod/badges/large">
+ -->
 ## Github stats
 ![trophy](https://github-profile-trophy.vercel.app/?username=luchikAR&theme=onedark)  
 ![](https://komarev.com/ghpvc/?username=luchikAR&color=grey)
