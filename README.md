@@ -20,19 +20,21 @@ I can program in C, C++, Java at the junior level:
 ## List of game development projects
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| cub3D | 01/04/2021 - 29/04/2021 | Educational project of the training program of the School of programming 21 (42 ecola) for rendering a frame using the minilibX library in C. Link to [GitHub Repo](https://github.com/luchikAR/cub3d). |
+| cub3D | 01/04/2021 - 29/04/2021 | Образовательный проект учебной программы Школы программирования 21 (42 ecola) для рендеринга кадра с использованием библиотеки minilibX на C. Link to [GitHub Repo](https://github.com/luchikAR/cub3d). |
 
 ## List of PET-projects in С/C++
 | Project name | Development period | Description |
 |:------------:|:------------------:|:-----------:|
-| ft_irc | 24/03/2020 - * | Teamwork on the development of an IRC chat with an interactive client interface. Link to [GitHub Repo](https://github.com/luchikAR/ft_irc). |
-| ft_containers | 02/01/2022 - 02/02/2022 | Own implementation of containers from the STL library according to the C++98 standard. Link to [GitHub Repo](https://github.com/luchikAR/ft_containers). |
+| ft_irc | 24/03/2020 - * | Совместный проект по разработке IRC-чата с клиентским интерфейсом. Link to [GitHub Repo](https://github.com/luchikAR/ft_irc). |
+| ft_containers | 02/01/2022 - 02/02/2022 | Собственная реализация контейнеров из библиотеки STL в соответствии со стандартом C++98. Link to [GitHub Repo](https://github.com/luchikAR/ft_containers). |
+<!--
 | cpp_modules | 06/08/2021 - 09/09/2021 | A short course on learning the basics of C++. Link to [GitHub Repo](https://github.com/luchikAR/cpp_modules). |
-| philosophers | 01/08/2021 - 20/08/2021 | A project to study multithreading based on the [Problem of Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem). Link to [GitHub Repo](https://github.com/luchikAR/Philosophers). |
-| minishell | 20/06/2021 - 27/07/2021 | Teamwork to develop your own shell for the MAC system. Link to [GitHub Repo](https://github.com/luchikAR/mini-Shell). |
-| ft_printf | 08/01/2021 - 25/01/2021 | Native implementation of the standard `printf` function. Link to [GitHub Repo](https://github.com/luchikAR/ft_printf). |
-| GNL | 25/12/2020 - 18/01/2021 | A small program for reading information from a file. Link to [GitHub Repo](https://github.com/luchikAR/GNL). |
-| libft | 04/11/2020 - 24/11/2020 | Native implementation of the library of standard functions in the C language. Link to [GitHub Repo](https://github.com/luchikAR/libft). |
+ -->
+| philosophers | 01/08/2021 - 20/08/2021 | Проект по изучению многопоточности, основанный на [Problem of Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem). Link to [GitHub Repo](https://github.com/luchikAR/Philosophers). |
+| minishell | 20/06/2021 - 27/07/2021 | Совместный проект по разработке собственной оболочки(bash) для системы MAC. Link to [GitHub Repo](https://github.com/luchikAR/mini-Shell). |
+| ft_printf | 08/01/2021 - 25/01/2021 | Собственная реализация стандартной функции `printf`. Link to [GitHub Repo](https://github.com/luchikAR/ft_printf). |
+| GNL | 25/12/2020 - 18/01/2021 | Небольшая программа для считывания информации из файла. Link to [GitHub Repo](https://github.com/luchikAR/GNL). |
+| libft | 04/11/2020 - 24/11/2020 | Реализация библиотеки стандартных функций на языке C. Link to [GitHub Repo](https://github.com/luchikAR/libft). |
 
 <!--
 ## Certificates
