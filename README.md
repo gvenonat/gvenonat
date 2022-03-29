@@ -17,13 +17,13 @@ I can program in C, C++, Java at the junior level:
 
 ## Skills
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) 
-## List of game development projects
-| Project name | Development period | Description |
+## Список проектов по разработке игр
+| Название проекта | Период разработки |  Описание |
 |:------------:|:------------------:|:-----------:|
 | cub3D | 01/04/2021 - 29/04/2021 | Образовательный проект учебной программы Школы программирования 21 (42 ecola) для рендеринга кадра с использованием библиотеки minilibX на C. Link to [GitHub Repo](https://github.com/luchikAR/cub3d). |
 
-## List of PET-projects in С/C++
-| Project name | Development period | Description |
+## Список PET-projects на С/C++
+| Название проекта | Период разработки | Описание |
 |:------------:|:------------------:|:-----------:|
 | ft_irc | 24/03/2020 - * | Совместный проект по разработке IRC-чата с клиентским интерфейсом. Link to [GitHub Repo](https://github.com/luchikAR/ft_irc). |
 | ft_containers | 02/01/2022 - 02/02/2022 | Собственная реализация контейнеров из библиотеки STL в соответствии со стандартом C++98. Link to [GitHub Repo](https://github.com/luchikAR/ft_containers). |
@@ -34,7 +34,7 @@ I can program in C, C++, Java at the junior level:
 | libft | 04/11/2020 - 24/11/2020 | Реализация библиотеки стандартных функций на языке C. Link to [GitHub Repo](https://github.com/luchikAR/libft). |
 
 <!--
-## Certificates
+## Сертификаты
 * [Unreal Engine C++ Developer: Learn C++ and Make Video Games](https://www.udemy.com/certificate/UC-20cb3b99-391c-4aaf-be7a-3da38396187a/)  
 * [Unreal Engine — полное руководство по разработке на С++](https://www.udemy.com/certificate/UC-8069876f-be89-4c90-bd60-2f252de0d248/)  
 * [Unreal Engine Blueprint Game Developer](https://www.udemy.com/certificate/UC-c52ab5f1-e36a-4325-96ef-77bbe6386be1/)  
@@ -43,10 +43,10 @@ I can program in C, C++, Java at the junior level:
 ## Codewarrior Profile Badges
 <img src="https://www.codewars.com/users/markveligod/badges/large">
  -->
-## Github stats
+## Github статистика
 ![trophy](https://github-profile-trophy.vercel.app/?username=luchikAR&theme=onedark)  
 ![](https://komarev.com/ghpvc/?username=luchikAR&color=grey)
-
+# Используемые ЯП
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchikAR&layout=compact)](https://github.com/luchikAR/github-readme-stats)
 
 <!--
