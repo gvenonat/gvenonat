@@ -14,7 +14,7 @@ I can program in C, C++, Java at the junior level:
 * Mathematical magic for solving many common coding problems;   
 * Using [Jenkins](https://www.jenkins.io) to automate processes;  
 <!-- * Creating automation tests;  -->
-
+I'm on ![Codewars](https://www.codewars.com/users/gvenonat/badges/small) <img src="https://www.codewars.com/users/gvenonat/badges/small"/> and on *site 2*
 ## Skills
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) 
 ## Список проектов по разработке игр
@@ -39,10 +39,10 @@ I can program in C, C++, Java at the junior level:
 * [Unreal Engine — полное руководство по разработке на С++](https://www.udemy.com/certificate/UC-8069876f-be89-4c90-bd60-2f252de0d248/)  
 * [Unreal Engine Blueprint Game Developer](https://www.udemy.com/certificate/UC-c52ab5f1-e36a-4325-96ef-77bbe6386be1/)  
 * [Unreal C++ Multiplayer Master: Intermediate Game Development](https://www.udemy.com/certificate/UC-af6c1691-b143-4a2c-a23e-77106198e55b/)
- -->
-## Мой Codewars
-<img src="https://www.codewars.com/users/gvenonat/badges/large">
 
+## Мой Codewars
+<img src="https://www.codewars.com/users/gvenonat/badges/small">
+ -->
 ## Github статистика
 ![trophy](https://github-profile-trophy.vercel.app/?username=luchikAR&theme=onedark)  
 ![](https://komarev.com/ghpvc/?username=luchikAR&color=grey)
