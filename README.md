@@ -27,9 +27,7 @@ I can program in C, C++, Java at the junior level:
 |:------------:|:------------------:|:-----------:|
 | ft_irc | 24/03/2020 - * | Совместный проект по разработке IRC-чата с клиентским интерфейсом. Link to [GitHub Repo](https://github.com/luchikAR/ft_irc). |
 | ft_containers | 02/01/2022 - 02/02/2022 | Собственная реализация контейнеров из библиотеки STL в соответствии со стандартом C++98. Link to [GitHub Repo](https://github.com/luchikAR/ft_containers). |
-<!--
-| cpp_modules | 06/08/2021 - 09/09/2021 | A short course on learning the basics of C++. Link to [GitHub Repo](https://github.com/luchikAR/cpp_modules). |
- -->
+<!-- | cpp_modules | 06/08/2021 - 09/09/2021 | A short course on learning the basics of C++. Link to [GitHub Repo](https://github.com/luchikAR/cpp_modules). | -->
 | philosophers | 01/08/2021 - 20/08/2021 | Проект по изучению многопоточности, основанный на [Problem of Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem). Link to [GitHub Repo](https://github.com/luchikAR/Philosophers). |
 | minishell | 20/06/2021 - 27/07/2021 | Совместный проект по разработке собственной оболочки(bash) для системы MAC. Link to [GitHub Repo](https://github.com/luchikAR/mini-Shell). |
 | ft_printf | 08/01/2021 - 25/01/2021 | Собственная реализация стандартной функции `printf`. Link to [GitHub Repo](https://github.com/luchikAR/ft_printf). |
