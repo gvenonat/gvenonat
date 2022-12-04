@@ -17,10 +17,10 @@ I can program in C, C++, Java at the junior level:
 **I'm on [Codewars](https://www.codewars.com/users/gvenonat) and on [Leetcode](https://leetcode.com/gvenonat/)**
 ## Skills
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) 
-## Список проектов по разработке игр
+## Список проектов на Java
 | Название проекта | Период разработки |  Описание |
 |:------------:|:------------------:|:-----------:|
-| cub3D | 01/04/2021 - 29/04/2021 | Образовательный проект учебной программы Школы программирования 21 (42 ecola) для рендеринга кадра с использованием библиотеки minilibX на C. Link to [GitHub Repo](https://github.com/luchikAR/cub3d). |
+| JavaFXapp | 28/11/2022 - 06/12/2022 | Приложение для АИС учета продаж с БД Postrgres и библиотекой JavaFX. Link to [GitHub Repo](https://github.com/luchikAR/AppKursowaya_Belenov). |
 
 ## Список PET-projects на С/C++
 | Название проекта | Период разработки | Описание |
@@ -29,6 +29,7 @@ I can program in C, C++, Java at the junior level:
 | ft_containers | 02/01/2022 - 02/02/2022 | Собственная реализация контейнеров из библиотеки STL в соответствии со стандартом C++98. Link to [GitHub Repo](https://github.com/luchikAR/ft_containers). |
 | philosophers | 01/08/2021 - 20/08/2021 | Проект по изучению многопоточности, основанный на [Problem of Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem). Link to [GitHub Repo](https://github.com/luchikAR/Philosophers). |
 | minishell | 20/06/2021 - 27/07/2021 | Совместный проект по разработке собственной оболочки(bash) для системы MAC. Link to [GitHub Repo](https://github.com/luchikAR/mini-Shell). |
+| cub3D | 01/04/2021 - 29/04/2021 | Образовательный проект учебной программы Школы программирования 21 (42 ecola) для рендеринга кадра с использованием библиотеки minilibX на C. Link to [GitHub Repo](https://github.com/luchikAR/cub3d). |
 | ft_printf | 08/01/2021 - 25/01/2021 | Собственная реализация стандартной функции `printf`. Link to [GitHub Repo](https://github.com/luchikAR/ft_printf). |
 | GNL | 25/12/2020 - 18/01/2021 | Небольшая программа для считывания информации из файла. Link to [GitHub Repo](https://github.com/luchikAR/GNL). |
 | libft | 04/11/2020 - 24/11/2020 | Реализация библиотеки стандартных функций на языке C. Link to [GitHub Repo](https://github.com/luchikAR/libft). |
