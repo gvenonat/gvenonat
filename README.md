@@ -15,8 +15,9 @@ I can program in C, C++, Java at the junior level:
 ## Список проектов на Java
 | Название проекта | Период разработки |  Описание |
 |:------------:|:------------------:|:-----------:|
-<!-- | FWA | XX/02/2023 - XX/02/2023 | Java Servlet API. first web application using standard Java technologies. Link to [GitHub Repo](). | -->
 | JavaFXapp | 28/11/2022 - 06/12/2022 | Приложение для АИС учета продаж с БД Postrgres и библиотекой JavaFX. Link to [GitHub Repo](https://github.com/luchikAR/AppKursowaya_Belenov). |
+<!-- | FWA | XX/02/2023 - XX/02/2023 | Java Servlet API. first web application using standard Java technologies. Link to [GitHub Repo](). | -->
+
 
 ## Список PET-projects на С/C++
 | Название проекта | Период разработки | Описание |
