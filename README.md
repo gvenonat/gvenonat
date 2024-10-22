@@ -1,19 +1,14 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Andrey, I study computer security, programming languages and ESB.    
+I'm Andrey, I am now a Java backend developer.   
+<!--
 I can program in ESQL/Java under the ESB:    
 * IBM Integration Toolkit
 * IBM mq manager
-
 I know the base architecture of the ESB, the main methods of refactoring and how to build the progect.
 
 I can program in C, C++, Java at the junior level:
+-->
 
-* UMG: programming user interfaces;  
-* Animation programming;  
-* Writing readable, maintainable, yet fast and efficient code;  
-* Mathematical magic for solving many common coding problems;   
-* Using [Jenkins](https://www.jenkins.io) to automate processes;  
-<!-- * Creating automation tests;  -->
 **I'm on [Codewars](https://www.codewars.com/users/gvenonat) and on [Leetcode](https://leetcode.com/gvenonat/)**
 ## Skills
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) 
