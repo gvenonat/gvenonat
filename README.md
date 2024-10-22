@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm Andrey, I am now a Java backend developer.   
+I'm Andrey. I am now a Java backend developer.   
 <!--
 I can program in ESQL/Java under the ESB:    
 * IBM Integration Toolkit
